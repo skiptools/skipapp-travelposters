@@ -1,6 +1,6 @@
 # TravelPosters
 
-This is a demonstration of using a shared [Skip](https://skip.tools) dual-platform Swift model library to power both an iOS and an Android app.
+This is a demonstration of using a shared [Skip Lite](https://skip.tools) dual-platform Swift model library to power both an iOS and an Android app.
 
 ## Workflow
 
